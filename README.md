@@ -1,5 +1,12 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skhyr&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=27&border_radius=0&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm Piotrek 👋
 
-[@Soyusz](https://github.com/Soyusz)
+Check out my latest projects:
+- Alkierz - social media app for sharing party memories 🥳 and calculating the cheapest drink 🍹󠀥󠀥. 
+- Vision - back office app for vacation managment 🌴🌴
 
-[https://soyusz.netlify.app](https://soyusz.netlify.app/)
+☝️ Both have backends written in rust :pogchamp:
+
+\
+\
+Worknig at (@TheWildarzGroup)[https://github.com/TheWidlarzGroup] \
+And with friends after hours at (@SoyuszDev)[https://github.com/Soyusz]
