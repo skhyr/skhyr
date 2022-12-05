@@ -8,5 +8,5 @@ Check out my latest projects:
 
 \
 \
-Worknig at [@TheWildarzGroup](https://github.com/TheWidlarzGroup) \
+Working at [@TheWildarzGroup](https://github.com/TheWidlarzGroup) \
 And with friends after hours at [@SoyuszDev](https://github.com/Soyusz)
